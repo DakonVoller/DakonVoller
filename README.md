@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DakonVoller
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... click libearary for cli,  
+- 🌱 I’m currently learning ... click lib for cli, rust libs for telemetry data, and networking 
 - 💞️ I’m looking to collaborate on ...data collection, Rust - Python -JavaScript - asyncronus call time modeling liberary
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He , Him  / Any 
